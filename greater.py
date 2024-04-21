@@ -4,7 +4,7 @@ def find_largest(a, b, c):
     return max(a, b, c)
 
 def main():
-    st.title("Find the Largest Among Three Numbers")
+    st.title("Greatest Number:")
     
     st.write("Enter three numbers below:")
     
